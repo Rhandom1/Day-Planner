@@ -23,3 +23,8 @@ THEN the saved events persist
 
 #### Screenshot and links
 
+![Live Screenshot](./Assets/DayPlannerLive.png)
+
+https://github.com/Rhandom1/Day-Planner
+
+https://rhandom1.github.io/Day-Planner/
